@@ -1,0 +1,6 @@
+D:\malinee_00009\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\malinee_00009\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\malinee_00009\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\malinee_00009\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+D:\malinee_00009\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\malinee_00009\Lab2\Lab2\obj\Debug\Lab2.pdb
